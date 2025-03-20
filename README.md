@@ -1,4 +1,4 @@
-### Hi there 👋 It's a new year! 2025! Here is what I'm up to!
+### Hi there 👋 2025! Here is what I'm up to!
 
 - 🔭 I’m currently looking for a job! Seeking Engineering Management/Embedded Systems Roles. Previously Head of Engineering Management at Satellite.im. 
 - 🌱 I have been working on a new tool for running [JavaScript games](https://github.com/monteslu/jsgamelauncher) on inexpensive Ambernic devices. I made a few of my own games including the "[Slide Game](https://github.com/tooshel/slidegame)" that was used at HalfStack. The game was installed on a $50 gaming device and it [ran the slides](https://youtu.be/uCdcmxwFoWg). 
